@@ -8,6 +8,6 @@ and no more changes can be made.
 Requirement: The following script will require a third party plugin called extrarest to be installed in processmaker. The plugin can be
 download from the following link:
     https://github.com/amosbatto/pmcommunity/tree/master/extraRest
-    ---------------------------*****------------------------------------------
+    
     
 Script Name: 
