@@ -1,3 +1,7 @@
+'''
+   The following code snippet will download the case passed as an argument to function
+   downloadSingleDoc
+'''
 class Req:
     def __init__(self,token,url,payload=None):
         self.token = token
