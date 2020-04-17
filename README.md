@@ -12,4 +12,6 @@ download from the following link:
     https://github.com/amosbatto/pmcommunity/tree/master/extraRest
     
     
-Script Name: 
+Script Name: processmaker_download_output_doc.py
+
+Description: The following code snippet will download the case passed as an argument to the function downloadSingleDoc. 
