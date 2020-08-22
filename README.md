@@ -1,5 +1,5 @@
 # Processmaker
-The following repository contains python scripts that perform different processmaker tasks using REST api.
+The following repository contains python scripts that perform different processmaker tasks using processmaker REST api.
 
 ### Script name: ```processmaker_push_case.py```
 
